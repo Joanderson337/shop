@@ -6,6 +6,7 @@ export const HomeContainer = styled('main', {
   maxWidth: 'calc(100vw - ((100vw - 1180px) / 2))',
   minHeight: 656,
   marginLeft: 'auto',
+  marginBottom: 60,
 
   '@container': {
     paddingLeft: '1rem',
